@@ -1,2 +1,3 @@
 file2 created
 new line added from GUI hotline_branch
+added new line hotline_branch
