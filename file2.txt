@@ -1,1 +1,2 @@
 file2 created
+new line added from GUI future_branch1
